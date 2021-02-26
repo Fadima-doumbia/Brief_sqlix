@@ -1,0 +1,11 @@
+
+Nous avons commencé le projet avec le NoSQL mais il n’a pas de langage d’interrogation standardisé et l’écriture de requêtes complexes est difficile à mettre en œuvre. 
+Et c’est pour cette raison que nous nous sommes orientés vers la BDD relationnelle. 
+La base de données relationnelle prend l'information avec deux parties distinctes et le met dans deux tableaux distincts. 
+La bases de données relationnelles permettent une vision d'être clair - couper - systématique et épurée des données sans avoir à répéter l'information. 
+Comment bases de données relationnelles. 
+La technologie est mature (création, il y a plusieurs dizaines d’années) ce qui fait qu’aujourd’hui le SQL est un langage standard et normalisé. 
+Avec sa courbe d'apprentissage douce, nous n'aurons pas besoin de faire appel à un développeur qualifié pour gérer notre base de données, car les bases de données SQL ne nécessitent pas beaucoup de travail additionnel pour être bien protégées reste plus facile à utiliser. 
+Par exemple, la plupart des tâches peuvent être exécutées directement dans la ligne de commande, ce qui réduit les étapes de développement. 
+Ils constituent un bon choix pour la création et la prise en charge de solutions logicielles complexes, où toute interaction a de nombreuses conséquences. On a une garantie que les transactions sont atomiques, cohérentes, isolées et durables – principe ACID (Atomic, Consistent, Indépendant, Durable). 
+La possibilité de mettre en œuvre des requêtes complexes (croisement multiple des données).
